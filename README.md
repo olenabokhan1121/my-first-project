@@ -1,2 +1,3 @@
-# my-first-project
+git status# my-first-project
+
 My first project ( precourse)
